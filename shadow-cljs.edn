@@ -1,0 +1,12 @@
+;; shadow-cljs configuration
+{:source-paths
+ ["src"]
+ 
+ :dependencies
+ []
+
+ :builds
+ {:script
+  {:target :node-script
+   :main redditbot/-main
+   :output-to "target/main.js"}}}

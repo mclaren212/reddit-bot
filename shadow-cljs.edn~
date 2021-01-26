@@ -1,0 +1,14 @@
+;; shadow-cljs configuration
+{:source-paths
+ ["src"]
+ 
+ :dependencies
+ []
+
+ :builds
+ {:script
+  {:target :node-script
+   :main demoscript/main
+   :output-to "target/main.js"}}}
+
+

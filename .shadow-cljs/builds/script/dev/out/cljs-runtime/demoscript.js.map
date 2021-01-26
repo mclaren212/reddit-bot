@@ -1,0 +1,1 @@
+{"version":3,"sources":["demoscript.cljs"],"mappings":";AAEA,AAAA,AAAMA;AAAN,AACE,AAAA,AAACC","names":["demoscript/main","cljs.core.prn"],"sourcesContent":["(ns demoscript)\n\n(defn main []\n  (prn \"hello world\"))\n"]}

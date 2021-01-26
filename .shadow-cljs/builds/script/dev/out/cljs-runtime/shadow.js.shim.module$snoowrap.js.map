@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"shadow.js.shim.module$snoowrap.js",
+"lineCount":5,
+"mappings":"AAAAA,IAAA,CAAKC,OAAL,CAAa,gCAAb,CAAA;AACAD,IAAA,CAAKC,OAAL,CAAa,uCAAb,CAAA;AACAC,MAAA,CAAOC,EAAP,CAAUC,IAAV,CAAeC,eAAf,GAAiCC,OAAA,CAAQ,UAAR,CAAjC;AACAC,qCAAA,CAAsCC,OAAtC,GAAgDN,MAAhD,CAAuDC,EAAvD,CAA0DC,IAA1D,CAA+DC,eAA/D;;",
+"sources":["shadow.js.shim.module$snoowrap.js"],
+"sourcesContent":["goog.provide(\"shadow.js.shim.module$snoowrap\");\ngoog.provide(\"module$shadow_js_shim_module$snoowrap\");\nshadow.js.shim.module$snoowrap = require(\"snoowrap\");\nmodule$shadow_js_shim_module$snoowrap.default = shadow.js.shim.module$snoowrap;\n"],
+"names":["goog","provide","shadow","js","shim","module$snoowrap","require","module$shadow_js_shim_module$snoowrap","default"]
+}

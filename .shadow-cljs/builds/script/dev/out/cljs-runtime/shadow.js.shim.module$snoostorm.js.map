@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"shadow.js.shim.module$snoostorm.js",
+"lineCount":5,
+"mappings":"AAAAA,IAAA,CAAKC,OAAL,CAAa,iCAAb,CAAA;AACAD,IAAA,CAAKC,OAAL,CAAa,wCAAb,CAAA;AACAC,MAAA,CAAOC,EAAP,CAAUC,IAAV,CAAeC,gBAAf,GAAkCC,OAAA,CAAQ,WAAR,CAAlC;AACAC,sCAAA,CAAuCC,OAAvC,GAAiDN,MAAjD,CAAwDC,EAAxD,CAA2DC,IAA3D,CAAgEC,gBAAhE;;",
+"sources":["shadow.js.shim.module$snoostorm.js"],
+"sourcesContent":["goog.provide(\"shadow.js.shim.module$snoostorm\");\ngoog.provide(\"module$shadow_js_shim_module$snoostorm\");\nshadow.js.shim.module$snoostorm = require(\"snoostorm\");\nmodule$shadow_js_shim_module$snoostorm.default = shadow.js.shim.module$snoostorm;\n"],
+"names":["goog","provide","shadow","js","shim","module$snoostorm","require","module$shadow_js_shim_module$snoostorm","default"]
+}
